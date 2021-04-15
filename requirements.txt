@@ -1,0 +1,2 @@
+requests # see github.com/psf/requests
+logzero  # see github.com/metachris/logzero
